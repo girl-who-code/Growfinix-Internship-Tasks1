@@ -1,0 +1,2 @@
+Asset_Name,Asset_Type,Frame_Time_Seconds,Objects_Detected,Object_Count,Dominant_Colors,Brightness,Lighting_Score,Contrast,Contrast_Score,Auto_Tags
+cat (2).jpg,Image,,cat,1,"#bec0c1, #4e443e, #a8a9aa, #d6d7d7, #8b817b",179.94,58.87,35.59,55.61,"cat, High-Brightness, Low-Contrast, Computer-Vision-Analyzed, Image"

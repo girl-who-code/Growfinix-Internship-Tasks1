@@ -1,0 +1,15 @@
+[
+    {
+        "Asset_Name":"cat (2).jpg",
+        "Asset_Type":"Image",
+        "Frame_Time_Seconds":null,
+        "Objects_Detected":"cat",
+        "Object_Count":1,
+        "Dominant_Colors":"#bec0c1, #4e443e, #a8a9aa, #d6d7d7, #8b817b",
+        "Brightness":179.94,
+        "Lighting_Score":58.87,
+        "Contrast":35.59,
+        "Contrast_Score":55.61,
+        "Auto_Tags":"cat, High-Brightness, Low-Contrast, Computer-Vision-Analyzed, Image"
+    }
+]
